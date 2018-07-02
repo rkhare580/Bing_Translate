@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="13650" started-at="2018-07-02T11:48:54Z" finished-at="2018-07-02T11:49:08Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="13650" started-at="2018-07-02T11:48:54Z" finished-at="2018-07-02T11:49:08Z">
+      <class name="AppTest">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:AppTest@33f88ab]" name="beforeClass" is-config="true" duration-ms="7099" started-at="2018-07-02T11:48:54Z" finished-at="2018-07-02T11:49:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="InputDrop()[pri:0, instance:AppTest@33f88ab]" name="InputDrop" duration-ms="109" started-at="2018-07-02T11:49:01Z" finished-at="2018-07-02T11:49:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- InputDrop -->
+        <test-method status="PASS" signature="OutputDrop()[pri:1, instance:AppTest@33f88ab]" name="OutputDrop" duration-ms="63" started-at="2018-07-02T11:49:01Z" finished-at="2018-07-02T11:49:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OutputDrop -->
+        <test-method status="PASS" signature="sendText()[pri:2, instance:AppTest@33f88ab]" name="sendText" duration-ms="63" started-at="2018-07-02T11:49:01Z" finished-at="2018-07-02T11:49:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sendText -->
+        <test-method status="PASS" signature="checkTranslation()[pri:3, instance:AppTest@33f88ab]" name="checkTranslation" duration-ms="5070" started-at="2018-07-02T11:49:01Z" finished-at="2018-07-02T11:49:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkTranslation -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:AppTest@33f88ab]" name="afterClass" is-config="true" duration-ms="1217" started-at="2018-07-02T11:49:07Z" finished-at="2018-07-02T11:49:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- AppTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
